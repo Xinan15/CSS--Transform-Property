@@ -15,7 +15,7 @@ body {
 
 .title{
     padding:30;
-    color:#F4EEE0;
+    color:#B799FF;
 }
 
 .container{
@@ -51,7 +51,7 @@ body {
 .widget{
     width:100px;
     height:100px;
-    background-color:#F4EEE0;
+    background-color:#B799FF;
     transition: all 0.5s ease;
     border-radius: 20px;
 }
